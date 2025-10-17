@@ -19,3 +19,5 @@ The following publishers have explicitly given us permission to support their pr
     * Buy their products at [Drivethrurpg](https://www.drivethrurpg.com/en/publisher/3743/zozer-games)
     * We have permission to support Cepheus Universal, but at the time of writing it is not fully supported. See [issue #1576](https://github.com/xdy/twodsix-foundryvtt/issues/1576) for the current status.
     
+
+<!-- Auto-update: 2025-10-17T15:50:23.172935 -->
